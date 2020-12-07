@@ -1,0 +1,11 @@
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/bin/Debug/netcoreapp2.2/riddleOfTheSphinx.deps.json
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/bin/Debug/netcoreapp2.2/riddleOfTheSphinx.runtimeconfig.json
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/bin/Debug/netcoreapp2.2/riddleOfTheSphinx.runtimeconfig.dev.json
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/bin/Debug/netcoreapp2.2/riddleOfTheSphinx.dll
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/bin/Debug/netcoreapp2.2/riddleOfTheSphinx.pdb
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.csprojAssemblyReference.cache
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.csproj.CoreCompileInputs.cache
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.AssemblyInfoInputs.cache
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.AssemblyInfo.cs
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.dll
+/Users/kevinkirkley/Desktop/riddle-of-the-sphinx/obj/Debug/netcoreapp2.2/riddleOfTheSphinx.pdb

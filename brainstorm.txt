@@ -1,0 +1,11 @@
+string EatYou = "You are incorrect, the Mighty Sphinx pulls out knife and fork for supper..."
+bool question1 = answer1 == "4"
+bool question2 = answer2 == ""
+
+WriteLine to describe the rules of the game
+Have prompt asking user if they understand the rules if so type "y"
+ReadLine(), set to bool Question1
+If Question1 is true is, WriteLine "What is 2+2?"
+If Question1 is False, WriteLine (EatYou)
+This can be reused -- If incorrect WriteLine "You are incorrect, the Mighty Sphinx pulls out knife and fork for supper..."
+If y is inputted WriteLine next riddle "What is the air speed of an unladen swallow?"
